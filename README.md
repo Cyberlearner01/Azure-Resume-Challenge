@@ -7,3 +7,4 @@ My Azure Resume
  - Azure Cosmos DB for NoSQL
 Created a new database called AzureResume
 Created a container 
+created a function
